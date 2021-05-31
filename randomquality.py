@@ -1,0 +1,97 @@
+import random
+print("TRY ONLY ONCE")
+n=input("enter your name")
+print("Hey, hi",n)
+print("I would like to talk with you some time")
+g=input("Are you free now.(yes/no)")
+if g=='yes':
+    print("Ok. lets start")
+    print("Do you know what I am thinking about you")
+    k=input("Are you willing to know.(yes/no)")
+    if k=='yes':
+        print("Ok.Let's see it once")
+        a=random.randint(1,11)
+        if a==1:
+            print("Black suits you the best")
+            print("Your way of taking is good,but just think once before you spell out")
+            print("Food is your everything")
+            print("you may live without phone but not without sleep")
+            print("You're ok! Be friendly, more people will love you")
+            print("Waiting for a big surprise?")
+        elif a==2:
+            print("White suits you the best")
+            print("You are smarter than your looks")
+            print("Your family needs you the most. keep loving them")
+            print("You're ok! Be friendly, more people will love you")
+            print("You are smiling out but sarrow inside")
+            print("Don't think too much")
+        elif a==3:
+            print("Blue suits you the best")
+            print("Stop trying to impress other people. Be yourself")
+            print("Good is at to come.Worth wait!!")
+            print("you will achieve your goal.Thank me later")
+            print("Food is your everything")
+            print("Your honesty is your weapon")
+        elif a==4:
+            print("Pink suits you the best")
+            print("Cricket is your favourite")
+            print("you will achieve your goal.Thank me later")
+            print("He/She love you for yourself. No changes required")
+            print("Food is your everything")
+            print("Your honesty is your weapon")
+        elif a==5:
+            print("Black suits you the best")
+            print("Don't act to smart. I KNOW YOU")
+            print("Don't be lazy")
+            print("Don't trust too much.It will hurt you")
+            print("You're ok! Be friendly, more people will love you")
+            print("Don't waste your time, enjoy the life")
+            print("True relation will never end. Be patient")
+        elif a==6:
+            print("Blue suits you the best")
+            print("Food is your everything")
+            print("Be yourself. you're excellent the way you are")
+            print("Don't act to smart. I KNOW YOU")
+            print("you are so sweet")
+            print("Don't be lazy")
+        elif a==7:
+            print("White suits you the best")
+            print("You will surly get a good life partner")
+            print("Food is your everything")
+            print("Be yourself. you're excellent the way you are")
+            print("Don't loose the one who cares about you")
+            print("Don't think too much")
+        elif a==8:
+            print("Pink suits you the best")
+            print("Don't loose the one who cares about you")
+            print("you are so sweet")
+            print("Traditional wear is good to you")
+            print("You will give priority to your family more than anything else")
+            print("You are as beautiful as your thoughts")
+        elif a==9:
+            print("Blue suits you the best")
+            print("Irritating is your only ambition")
+            print("You are smarter than your looks")
+            print("You are attractive")
+            print("Keep secrets in you only, don't reveal them")
+            print("Your positivity will help you in the future")
+        else:
+            print("Black suits you the best")
+            print("You're ok! Be friendly, more people will love you")
+            print("Yours is a open heart")
+            print("You are smarter than your looks")
+            print("You are attractive")
+            print("Keep secrets in you only, don't reveal them")
+    else:
+        print("Ok. Text me when you are free. I mean excute the code when you are free")
+        
+else:
+    print("Ok. Text me when you are free. I mean excute the code when you are free")
+print("one more last question")
+d=input("Are you grown up man or woman.(man/woman)")
+if d=='man':
+    print("okati gurthupetuko manam gaari ki chillu pedatam kani \n chillu chuttu gaari pettam")
+else:
+    print("kuresee venala untundhi nee navvu.....\n karu chikatlo velugu nee navvu...... \n prapanchom lo emdho venta nee navvu...... \n ee vanni namuthe nenu petta nee chevilo oka puvvu")
+print("just for fun")
+print("Thanks for spending your valuable time with me")
