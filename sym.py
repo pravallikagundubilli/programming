@@ -10,9 +10,3 @@ circle(50,200)
 forward(133)
 end_fill()
 
-
-import turtle
-wn=turtle.Screen()
-wn.bgcolor("sky blue")
-pen = turtle. Turtle()
-pen. write("Many Happy Returns Of The Day Dad", font=("algerian",40, "italic"),align="center")
