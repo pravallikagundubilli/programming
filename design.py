@@ -1,4 +1,3 @@
-##turtle.done()
 
 ##
 ##import turtle
@@ -42,3 +41,5 @@ for i in range(300):
     t.pencolor(col[i%4])
     t.forward(i*4)
     t.right(137)
+turtle.done()
+    
